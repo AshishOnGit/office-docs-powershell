@@ -326,6 +326,8 @@ The value must be in one of the following forms:
 
 --An instance of an authentic SPWebApplication object.
 
+--A URL of the web application.
+
 ```yaml
 Type: SPWebApplicationPipeBind
 Parameter Sets: Deploy
